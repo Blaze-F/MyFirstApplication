@@ -1,8 +1,0 @@
-# ninja log v5
-35	6612	7620985603104755	CMakeFiles/gameapkpractice.dir/AndroidOut.cpp.o	bef16f3d50e91dad
-76	6646	7620985603517156	CMakeFiles/gameapkpractice.dir/Utility.cpp.o	ba973c5765fd33fc
-105	6694	7620985603929459	CMakeFiles/gameapkpractice.dir/TextureAsset.cpp.o	49300161fb9edc38
-17	6725	7620985604340529	CMakeFiles/gameapkpractice.dir/Shader.cpp.o	db83e1a6f2489705
-55	7071	7620985607728804	CMakeFiles/gameapkpractice.dir/Renderer.cpp.o	7a0812fe1466d81f
-1	7185	7620985608920305	CMakeFiles/gameapkpractice.dir/main.cpp.o	41cb80a4528e061b
-7186	7464	7620985611663084	C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/build/intermediates/cxx/Debug/1x3z4d6q/obj/x86_64/libgameapkpractice.so	b406e95ab519142b

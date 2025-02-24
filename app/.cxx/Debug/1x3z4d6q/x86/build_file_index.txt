@@ -1,1 +1,0 @@
-C:\Users\deda7\Documents\GitHub\MyFirstApplication\app\src\main\cpp\CMakeLists.txt
