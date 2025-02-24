@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86_64",
+  "command": "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android35 --sysroot=C:/Users/deda7/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgameapkpractice_EXPORTS -isystem C:/Users/deda7/.gradle/caches/8.10.2/transforms/b9f560b706837360761d66c1513fd5dc/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\gameapkpractice.dir\\main.cpp.o -c C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\main.cpp",
+  "file": "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\main.cpp"
+},
+{
+  "directory": "C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86_64",
+  "command": "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android35 --sysroot=C:/Users/deda7/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgameapkpractice_EXPORTS -isystem C:/Users/deda7/.gradle/caches/8.10.2/transforms/b9f560b706837360761d66c1513fd5dc/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\gameapkpractice.dir\\AndroidOut.cpp.o -c C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\AndroidOut.cpp",
+  "file": "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\AndroidOut.cpp"
+},
+{
+  "directory": "C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86_64",
+  "command": "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android35 --sysroot=C:/Users/deda7/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgameapkpractice_EXPORTS -isystem C:/Users/deda7/.gradle/caches/8.10.2/transforms/b9f560b706837360761d66c1513fd5dc/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\gameapkpractice.dir\\Renderer.cpp.o -c C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\Renderer.cpp",
+  "file": "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\Renderer.cpp"
+},
+{
+  "directory": "C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86_64",
+  "command": "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android35 --sysroot=C:/Users/deda7/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgameapkpractice_EXPORTS -isystem C:/Users/deda7/.gradle/caches/8.10.2/transforms/b9f560b706837360761d66c1513fd5dc/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\gameapkpractice.dir\\Shader.cpp.o -c C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\Shader.cpp",
+  "file": "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\Shader.cpp"
+},
+{
+  "directory": "C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86_64",
+  "command": "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android35 --sysroot=C:/Users/deda7/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgameapkpractice_EXPORTS -isystem C:/Users/deda7/.gradle/caches/8.10.2/transforms/b9f560b706837360761d66c1513fd5dc/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\gameapkpractice.dir\\TextureAsset.cpp.o -c C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\TextureAsset.cpp",
+  "file": "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\TextureAsset.cpp"
+},
+{
+  "directory": "C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86_64",
+  "command": "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android35 --sysroot=C:/Users/deda7/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgameapkpractice_EXPORTS -isystem C:/Users/deda7/.gradle/caches/8.10.2/transforms/b9f560b706837360761d66c1513fd5dc/transformed/games-activity-1.2.2/prefab/modules/game-activity/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\gameapkpractice.dir\\Utility.cpp.o -c C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\Utility.cpp",
+  "file": "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\Utility.cpp"
+}
+]

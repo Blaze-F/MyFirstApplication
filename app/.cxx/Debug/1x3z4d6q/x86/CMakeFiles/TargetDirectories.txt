@@ -1,0 +1,3 @@
+C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86/CMakeFiles/gameapkpractice.dir
+C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86/CMakeFiles/edit_cache.dir
+C:/Users/deda7/Documents/GitHub/MyFirstApplication/app/.cxx/Debug/1x3z4d6q/x86/CMakeFiles/rebuild_cache.dir

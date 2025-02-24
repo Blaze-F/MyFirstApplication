@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\.cxx\\Debug\\1x3z4d6q\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\deda7\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\.cxx\\Debug\\1x3z4d6q\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "gameapkpractice::@6890427a1f51a3e7e1df": {
+      "artifactName": "gameapkpractice",
+      "abi": "x86_64",
+      "output": "C:\\Users\\deda7\\Documents\\GitHub\\MyFirstApplication\\app\\build\\intermediates\\cxx\\Debug\\1x3z4d6q\\obj\\x86_64\\libgameapkpractice.so",
+      "runtimeFiles": []
+    }
+  }
+}
